@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bciancio/project-4/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/bciancio/project-4/static/js/main.d3a32ea4.chunk.js",
+    "main.js.map": "/bciancio/project-4/static/js/main.d3a32ea4.chunk.js.map",
+    "runtime-main.js": "/bciancio/project-4/static/js/runtime-main.5013fb0e.js",
+    "runtime-main.js.map": "/bciancio/project-4/static/js/runtime-main.5013fb0e.js.map",
+    "static/css/2.a95be28f.chunk.css": "/bciancio/project-4/static/css/2.a95be28f.chunk.css",
+    "static/js/2.a4cd7648.chunk.js": "/bciancio/project-4/static/js/2.a4cd7648.chunk.js",
+    "static/js/2.a4cd7648.chunk.js.map": "/bciancio/project-4/static/js/2.a4cd7648.chunk.js.map",
+    "static/js/3.04781afd.chunk.js": "/bciancio/project-4/static/js/3.04781afd.chunk.js",
+    "static/js/3.04781afd.chunk.js.map": "/bciancio/project-4/static/js/3.04781afd.chunk.js.map",
+    "index.html": "/bciancio/project-4/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/bciancio/project-4/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/bciancio/project-4/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a4cd7648.chunk.js.LICENSE.txt": "/bciancio/project-4/static/js/2.a4cd7648.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5013fb0e.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.a4cd7648.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d3a32ea4.chunk.js"
+  ]
+}
